@@ -1,3 +1,6 @@
+*{
+	background-color: #E6E6E6;
+}
 div{
 	margin: 15px;
 }
@@ -14,11 +17,13 @@ div{
 	width: 80px;
 	height: 80px;
 	border: solid 1px black;
+	background-color: #848484;
 }
 .contenedor{
 	width: 350px;
 	height: 120px;
 	border: solid 1px black;
+	background-color: #424242;
 }
 .margenIzq{
 	margin-left: 
